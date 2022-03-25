@@ -17,6 +17,7 @@ public class TestHello {
         // TODO code application logic here
         System.out.println("Hello, world");
         System.out.println("Hello, Yamete");
+        System.out.println("Have a good day");
     }
     
 }
